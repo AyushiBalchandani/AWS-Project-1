@@ -1,2 +1,2 @@
-# AWS-Project-1
-AWS Capstone Project - 1 (EC2)
+#Deploying-a-Multi-Tier-Website-using-AWS-EC2
+AWS Capstone Project - 1 
